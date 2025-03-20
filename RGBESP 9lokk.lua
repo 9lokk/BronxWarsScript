@@ -1,3 +1,5 @@
+-- Created by Jay/9lokk , @glocclover on ig
+-- left ctrl to hide
 -- 🌟 UI Library (Creates the GUI)
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Parent = game.CoreGui
